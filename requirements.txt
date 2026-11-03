@@ -1,0 +1,5 @@
+PySide6
+numpy
+matplotlib
+PyVISA
+scikit-rf
